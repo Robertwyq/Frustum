@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ckpts
+ckpts/
+*.pkl
+
+# data
+data/
+
+# work-dir
+work_dirs/
+demo/
